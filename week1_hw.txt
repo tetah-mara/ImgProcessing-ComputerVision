@@ -1,0 +1,5 @@
+Step 1 - Sizinle paylaşılan linkteki klasörü bilgisayarına indir.
+Step 2 - Klasör içerisinde isminin yazılı olduğu bir klasörve gerçekleştirilecek adımlar için bir kaynak niteliğinde dosya olacaktır. Bu kaynak dosyayı incele.
+Step 3 - İsminin olduğu klasördeki resimleri 9 class için etiketle.
+Step 4 - Etiketlenmiş verinin eğitim ve test için sağlıklı ayrılabilmesi için bir script yaz.
+
